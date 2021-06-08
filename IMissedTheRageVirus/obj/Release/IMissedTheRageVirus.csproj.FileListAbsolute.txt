@@ -1,0 +1,10 @@
+C:\Users\leopearce\source\repos\IMissedTheRageVirus\IMissedTheRageVirus\bin\Release\IMissedTheRageVirus.exe.config
+C:\Users\leopearce\source\repos\IMissedTheRageVirus\IMissedTheRageVirus\bin\Release\IMissedTheRageVirus.exe
+C:\Users\leopearce\source\repos\IMissedTheRageVirus\IMissedTheRageVirus\obj\Release\IMissedTheRageVirus.csprojAssemblyReference.cache
+C:\Users\leopearce\source\repos\IMissedTheRageVirus\IMissedTheRageVirus\obj\Release\IMissedTheRageVirus.msgBox.resources
+C:\Users\leopearce\source\repos\IMissedTheRageVirus\IMissedTheRageVirus\obj\Release\IMissedTheRageVirus.Properties.Resources.resources
+C:\Users\leopearce\source\repos\IMissedTheRageVirus\IMissedTheRageVirus\obj\Release\IMissedTheRageVirus.csproj.GenerateResource.cache
+C:\Users\leopearce\source\repos\IMissedTheRageVirus\IMissedTheRageVirus\obj\Release\IMissedTheRageVirus.csproj.CoreCompileInputs.cache
+C:\Users\leopearce\source\repos\IMissedTheRageVirus\IMissedTheRageVirus\obj\Release\IMissedTheRageVirus.exe
+C:\Users\leopearce\source\repos\IMissedTheRageVirus\IMissedTheRageVirus\obj\Release\IMissedTheRageVirus.pdb
+C:\Users\leopearce\source\repos\IMissedTheRageVirus\IMissedTheRageVirus\bin\Release\IMissedTheRageVirus.pdb
