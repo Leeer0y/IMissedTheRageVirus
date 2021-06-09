@@ -55,7 +55,6 @@ namespace IMissedTheRageVirus
             System.Media.SoundPlayer player = new System.Media.SoundPlayer(Properties.Resources.IMissedTheRage);
             player.Play();
 
-            
             Console.WriteLine("Press the Enter key to exit anytime... ");
             Console.ReadLine();
         }
