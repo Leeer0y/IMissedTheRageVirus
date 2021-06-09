@@ -8,3 +8,4 @@ C:\Users\leopearce\source\repos\IMissedTheRageVirus\IMissedTheRageVirus\obj\Debu
 C:\Users\leopearce\source\repos\IMissedTheRageVirus\IMissedTheRageVirus\obj\Debug\IMissedTheRageVirus.csproj.GenerateResource.cache
 C:\Users\leopearce\source\repos\IMissedTheRageVirus\IMissedTheRageVirus\obj\Debug\IMissedTheRageVirus.Properties.Resources.resources
 C:\Users\leopearce\source\repos\IMissedTheRageVirus\IMissedTheRageVirus\obj\Debug\IMissedTheRageVirus.msgBox.resources
+C:\Users\leopearce\source\repos\IMissedTheRageVirus\IMissedTheRageVirus\obj\Debug\IMissedTheRageVirus.popup1.resources

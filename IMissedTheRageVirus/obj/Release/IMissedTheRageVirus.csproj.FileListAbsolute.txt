@@ -8,3 +8,4 @@ C:\Users\leopearce\source\repos\IMissedTheRageVirus\IMissedTheRageVirus\obj\Rele
 C:\Users\leopearce\source\repos\IMissedTheRageVirus\IMissedTheRageVirus\obj\Release\IMissedTheRageVirus.exe
 C:\Users\leopearce\source\repos\IMissedTheRageVirus\IMissedTheRageVirus\obj\Release\IMissedTheRageVirus.pdb
 C:\Users\leopearce\source\repos\IMissedTheRageVirus\IMissedTheRageVirus\bin\Release\IMissedTheRageVirus.pdb
+C:\Users\leopearce\source\repos\IMissedTheRageVirus\IMissedTheRageVirus\obj\Release\IMissedTheRageVirus.popup1.resources
