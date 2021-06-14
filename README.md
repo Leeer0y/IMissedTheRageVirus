@@ -2,8 +2,8 @@
  A fun harmless virus that plays the song I missed the rage very loudly!
 
 The compiled file is located in /Release
-<br> Download link: https://github.com/Leeer0y/IMissedTheRageVirus/Releases/IMissedTheRageVirus.exe </br>
-<br> Download link (with debug window): https://github.com/Leeer0y/IMissedTheRageVirus/Releases/IMissedTheRageVirus.exe </br>
+<br> Download link: https://github.com/Leeer0y/IMissedTheRageVirus/raw/main/Releases/IMissedTheRageVirus.exe</br>
+<br> Download link (with debug window): https://github.com/Leeer0y/IMissedTheRageVirus/Releases/IMissedTheRageVirusDEBUG.exe</br>
 <br></br>
 <br> Raw Download link: https://raw.githubusercontent.com/Leeer0y/IMissedTheRageVirus/Releases/IMissedTheRageVirus.exe</br>
 <br> Raw Download link (With debug window): https://raw.githubusercontent.com/Leeer0y/IMissedTheRageVirus/Releases/IMissedTheRageVirusDEBUG.exe</br>
