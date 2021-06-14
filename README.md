@@ -2,6 +2,7 @@
  A fun harmless virus that plays the song I missed the rage very loudly!
  <br> NOTE: THIS AUTOMATICLY CLOESES THE TASK MANAGER, TO EXIT WAIT OR RESTART DEVICE
 
+<br><h style="color: #7CFC00"><b>Downloads</b></h>
 The compiled file is located in /Release
 <br> Download link: https://github.com/Leeer0y/IMissedTheRageVirus/raw/main/Releases/IMissedTheRageVirus.exe
 <br> Download link (with debug window): https://github.com/Leeer0y/IMissedTheRageVirus/raw/main/Releases/IMissedTheRageVirusDEBUG.exe
